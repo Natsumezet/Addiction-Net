@@ -1,0 +1,43 @@
+
+
+.social-icon {
+text-align: center;
+justify-content: space-between;
+flex-direction: row;
+}
+
+
+
+
+
+.fa-brands.fa-facebook.fa-3x {
+    margin-left: 10px;
+    color: black;
+}
+
+.fa-brands.fa-facebook.fa-3x:hover {
+    color: #1877F2 ;
+}
+.fa-brands.fa-github.fa-3x {
+    margin-left: 10px;
+    color: black;
+}
+.fa-brands.fa-github.fa-3x:hover {
+    color: plum;
+}
+.fa-brands.fa-square-twitter.fa-3x {
+    margin-left: 10px;
+    color: black;
+}
+.fa-brands.fa-square-twitter.fa-3x:hover {
+    color: #1DA1F2;
+}
+
+.fa-brands.fa-instagram.fa-3x {
+    margin-left: 10px;
+    color: black;
+}
+
+.fa-brands.fa-instagram.fa-3x:hover {
+    color:  #C13584;
+}
